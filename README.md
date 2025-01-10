@@ -58,4 +58,4 @@ Tu peux consulter et interagir avec le design directement sur Figma via ce lien 
 
 1. Clone le dépôt :  
    ```bash
-   git clone https://github.com/ton-utilisateur/online-school-design.git
+   git clone https://github.com/TRIUMPH455/online-school-design.git
