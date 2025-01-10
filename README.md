@@ -3,15 +3,7 @@
 Ce dépôt contient le design de la plateforme **Online School**, réalisé avec Figma.  
 Le projet vise à développer une plateforme d'e-learning intuitive et interactive pour la gestion des classes, la collaboration entre enseignants et étudiants, ainsi que la gestion administrative.
 
-## 🎨 Aperçu du design
 
-Voici un aperçu du design de l'application (interface de connexion, tableau de bord et autres vues) :
-
-![Design Online School](./assets/design.png)
-
-> **Remarque :** L'image ci-dessus montre l'interface de connexion ainsi que quelques fonctionnalités clés de l'application.
-
----
 
 ## 📄 Fonctionnalités incluses dans le design
 
@@ -31,6 +23,9 @@ Voici un aperçu du design de l'application (interface de connexion, tableau de 
 4. **Paiements**  
    - Liste des classes avec l’état des paiements pour chaque élève.  
    - Option pour générer un reçu ou un rapport des paiements.
+4. **Chat**  
+   - Possibilte dechanger avec dautres utilisateurs connectes en temps reel
+
 
 ---
 
